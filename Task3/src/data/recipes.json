@@ -1,0 +1,27 @@
+{
+    "Cappuccino": {
+      "coffee": 0.01,
+      "water": 0.035,
+      "milk": 0.09
+    },
+    "Espresso": {
+      "coffee": 0.01,
+      "water": 0.035
+    },
+    "Latte": {
+      "coffee": 0.01,
+      "water": 0.035,
+      "milk": 0.135
+    },
+    "Flat White": {
+      "coffee": 0.02,
+      "water": 0.04,
+      "milk": 0.11
+    },
+    "Macchiato": {
+      "coffee": 0.01,
+      "water": 0.035,
+      "milk": 0.015
+    }
+  }
+  
